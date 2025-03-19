@@ -6,6 +6,8 @@ We would like you collect all data from this API for the date range of 2025-02-0
 
 1. `cd server`
 2. `./bin/server-osx`
+    - or `./bin/server-osx-intel`
+    - or `./bin/server-windows.exe`
 
 ### /api/v1/punches
 
