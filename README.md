@@ -37,3 +37,6 @@ We would like you collect all data from this API for the date range of 2025-02-0
   }
 }
 ```
+
+`go build -a -o ./bin/server-osx cmd/main.go`
+`GOOS=windows GOARCH=amd64 go build -a -o ./bin/server-windows.exe cmd/main.go`
