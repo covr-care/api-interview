@@ -50,9 +50,9 @@ func main() {
 				count(id)
 			 from time_punches
 			 where
-				 punch_in > ?
+				 datetime(punch_in) > datetime(?)
 			 and
-				 punch_out < ?`
+				 datetime(punch_in) < datetime(?)`
 		countRows, err := db.Query(qCount, from, to)
 		if err != nil {
 			log.Fatal(err)
@@ -74,9 +74,9 @@ func main() {
 				punch_out
 			 from time_punches
 			 where
-				 punch_in > ?
+				 datetime(punch_in) > datetime(?)
 			 and
-				 punch_out < ?
+				 datetime(punch_in) < datetime(?)
 			 order by punch_in asc
 			 limit ?
 			 offset ?`
