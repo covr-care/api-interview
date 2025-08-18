@@ -8,6 +8,12 @@ We would like you collect all data from this API for the date range of 2025-02-0
 
 The expected number of records for this date range is 338.
 
+# Part 2
+
+We would like you count how many hours were worked on 2025-02-01.
+
+The expected number of hours is 43.
+
 ## Running server
 
 It is important that the server is started from the `server` directory in order for the server to find the `interview.db` sqlite file.
