@@ -1,4 +1,4 @@
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (1, '4a2e1e6c-1e0f-44fe-b3a3-2eb1edcd5b97', '2025-02-19T19:58:55Z', '2025-02-20T07:58:55Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (1, '4a2e1e6c-1e0f-44fe-b3a3-2eb1edcd5b97', '2025-02-20T00:58:55Z', '2025-02-20T07:58:55Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (2, 'e8ac1d48-0d7d-474c-871a-e5de64781606', '2025-03-10T09:08:41Z', '2025-03-10T16:08:41Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (3, '779f72fd-84c2-44a6-9e10-e9b1946200ce', '2025-03-17T11:07:45Z', '2025-03-17T16:07:45Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (4, 'b52cf6a2-3c34-4fa6-8db7-5f1aeda5dfa4', '2025-03-13T17:57:39Z', '2025-03-13T19:57:39Z');
@@ -182,7 +182,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (181, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (182, '4070416f-ebd4-4ffc-949e-f0a22a6af081', '2025-02-12T23:55:37Z', '2025-02-13T08:55:37Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (183, 'afec21d9-612f-438f-b36b-613e8707175c', '2025-01-11T02:03:51Z', '2025-01-11T03:03:51Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (184, '41662a42-f66e-48c3-b8f7-5769e2636214', '2025-02-25T12:33:37Z', '2025-02-25T20:33:37Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (185, '6214b847-4528-49df-9fc0-32bc21e70359', '2025-02-19T22:09:38Z', '2025-02-20T00:09:38Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (185, '6214b847-4528-49df-9fc0-32bc21e70359', '2025-02-20T00:09:38Z', '2025-02-20T02:09:38Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (186, '9ca45488-31d0-468c-81ad-4f0cd93f5a01', '2025-01-03T07:14:33Z', '2025-01-03T23:14:33Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (187, 'c294fc64-fa8c-4fa7-b863-65e58ad930a2', '2025-01-29T21:42:08Z', '2025-01-30T11:42:08Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (188, '19659172-236c-43a4-8c4c-ba7dbbd26962', '2025-03-18T19:59:04Z', '2025-03-19T05:59:04Z');
@@ -257,7 +257,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (256, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (257, '6349693c-5941-4ef8-8789-e99a507572f3', '2025-03-10T21:04:12Z', '2025-03-11T05:04:12Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (258, '971e8a94-ee97-4055-a7fe-abdc6aa34965', '2025-01-27T10:25:40Z', '2025-01-27T15:25:40Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (259, '376ef14a-f443-4108-b70a-42d1d0f9420c', '2025-02-21T18:19:52Z', '2025-02-22T06:19:52Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (260, '91304ac7-4294-45ff-a811-8dd488c2d440', '2025-02-19T05:49:23Z', '2025-02-19T07:49:23Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (260, '91304ac7-4294-45ff-a811-8dd488c2d440', '2025-02-20T05:49:23Z', '2025-02-20T07:49:23Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (261, '93bdd418-39d7-4ed5-aa2c-d67a28fb1915', '2025-01-19T21:02:59Z', '2025-01-20T03:02:59Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (262, '800b26dd-fbad-4aa0-858d-3a4b0aa8ea58', '2025-03-10T20:50:12Z', '2025-03-10T21:50:12Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (263, 'ae64e5cd-480d-4610-9ae0-b3d7900cd60e', '2025-01-07T20:40:35Z', '2025-01-08T02:40:35Z');
@@ -424,7 +424,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (423, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (424, '5c844893-ffb0-4c92-bf3c-90fa71bd6961', '2025-01-19T23:22:00Z', '2025-01-20T15:22:00Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (425, '4e7c5548-8927-4171-9776-70db40211c18', '2025-02-28T05:12:18Z', '2025-02-28T15:12:18Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (426, '577b3288-e5a6-4920-beae-bc43ea012673', '2025-03-12T14:35:02Z', '2025-03-12T18:35:02Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (427, '151244c8-951f-49be-93f3-978f8b22fa90', '2025-02-18T19:02:24Z', '2025-02-19T11:02:24Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (427, '151244c8-951f-49be-93f3-978f8b22fa90', '2025-02-18T19:02:24Z', '2025-02-18T11:23:24Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (428, '7c17ff3e-68d5-4fc8-8e1f-433cf2a46ea1', '2025-01-14T16:50:05Z', '2025-01-15T04:50:05Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (429, '144cf07e-23bd-4dbd-b481-6df5ef4c7a49', '2025-02-17T23:26:50Z', '2025-02-18T01:26:50Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (430, '86003813-2057-4ec3-93de-70843cde9c27', '2025-01-23T00:43:57Z', '2025-01-23T01:43:57Z');
@@ -433,7 +433,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (432, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (433, '8a85019b-582c-4248-94b8-dd6f9a116334', '2025-01-29T14:57:45Z', '2025-01-29T16:57:45Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (434, 'b16cfa8c-7b31-48bd-8fa4-11f150d97b75', '2025-01-11T12:27:32Z', '2025-01-11T15:27:32Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (435, '3ada202f-6e56-4693-8d82-3bbba66fce30', '2025-01-09T17:14:55Z', '2025-01-09T18:14:55Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (436, '24a37d78-d464-4a35-91d1-5128991fe928', '2025-02-19T00:31:06Z', '2025-02-19T08:31:06Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (436, '24a37d78-d464-4a35-91d1-5128991fe928', '2025-02-20T00:31:06Z', '2025-02-20T08:31:06Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (437, '6e636d79-15aa-4540-9f8a-a78edede0ff2', '2025-02-15T06:43:36Z', '2025-02-15T13:43:36Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (438, 'a37a830e-598b-4b1f-8ac3-2d4e1142fd6c', '2025-02-17T16:39:48Z', '2025-02-17T19:39:48Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (439, '5e3c45f6-2250-4292-8566-7b875f211571', '2025-02-24T06:29:53Z', '2025-02-24T21:29:53Z');
@@ -556,7 +556,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (555, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (556, 'e7ef92b4-073e-45c2-89a2-9ea6ef634245', '2025-01-15T17:29:39Z', '2025-01-16T07:29:39Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (557, '4bda2884-07b5-4b81-8333-9da511924f59', '2025-03-15T07:53:09Z', '2025-03-15T09:53:09Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (558, 'd65ed09f-3992-49d2-9581-6c45dbf0222d', '2025-03-04T06:33:25Z', '2025-03-04T10:33:25Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (559, '9007c954-8558-4804-b09d-c692d55d863c', '2025-02-18T19:21:24Z', '2025-02-19T02:21:24Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (559, '9007c954-8558-4804-b09d-c692d55d863c', '2025-02-18T19:21:24Z', '2025-02-18T23:21:24Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (560, '65c4b70a-3bec-4df8-9b15-17368fb551b8', '2025-01-05T17:04:17Z', '2025-01-06T07:04:17Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (561, 'a67a985c-3309-40b8-9ecb-19101d8a2be1', '2025-03-15T00:39:33Z', '2025-03-15T16:39:33Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (562, 'afcf6f76-1e85-484b-a380-00ce8816ea71', '2025-02-08T01:26:28Z', '2025-02-08T11:26:28Z');
@@ -589,7 +589,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (588, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (589, '8d35fdd6-1747-42f6-a293-c05326dd7cfb', '2025-03-08T12:49:54Z', '2025-03-08T18:49:54Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (590, '6def39ec-e481-4428-860d-ff983cbda82e', '2025-01-03T13:17:32Z', '2025-01-04T03:17:32Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (591, '8546ae6c-77f7-4deb-97ed-475f7d00196e', '2025-01-22T09:48:50Z', '2025-01-22T23:48:50Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (592, '7aefd9a7-6d02-4b8e-ba64-5b47f51272b8', '2025-02-19T22:10:31Z', '2025-02-20T03:10:31Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (592, '7aefd9a7-6d02-4b8e-ba64-5b47f51272b8', '2025-02-20T00:10:31Z', '2025-02-20T03:10:31Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (593, '456e3cd0-656b-4faa-bf6b-7a5df5d061da', '2025-01-22T23:03:45Z', '2025-01-23T08:03:45Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (594, 'ac5e93e6-bbec-4531-bb16-82b2a7ae9d14', '2025-01-12T14:24:02Z', '2025-01-13T03:24:02Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (595, '6e814c47-b7d7-4391-9b7e-b78fc52e7e3d', '2025-02-17T16:45:26Z', '2025-02-18T08:45:26Z');
@@ -611,7 +611,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (610, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (611, '3cd037d4-2dc8-4db7-b805-bd08301379a7', '2025-03-06T17:02:02Z', '2025-03-07T03:02:02Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (612, '402702ca-09e8-45d4-a7b0-81a8309ebcfe', '2025-01-13T05:50:29Z', '2025-01-13T10:50:29Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (613, 'f4c4dd02-4351-40a1-a1cd-7b66dd2afbc8', '2025-01-15T23:30:20Z', '2025-01-16T06:30:20Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (614, 'e5039f91-6546-488c-95a5-490b4ab18448', '2025-02-19T22:46:21Z', '2025-02-20T10:46:21Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (614, 'e5039f91-6546-488c-95a5-490b4ab18448', '2025-02-20T00:46:21Z', '2025-02-20T10:46:21Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (615, 'b3bf9858-9acb-4349-9c24-6997eff7334a', '2025-01-10T11:55:13Z', '2025-01-10T15:55:13Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (616, '7f20d533-b53c-457f-a7ff-d29adf32deba', '2025-01-25T15:35:00Z', '2025-01-25T23:35:00Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (617, '3329d785-6cc2-4fb7-b5b3-951b73b19a8b', '2025-01-08T09:19:34Z', '2025-01-08T18:19:34Z');
@@ -728,7 +728,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (727, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (728, '85a995e9-bde8-447f-ba2c-8ceb62b0daa4', '2025-01-20T12:39:40Z', '2025-01-20T23:39:40Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (729, '06e14191-341b-410d-95f9-7858b70f930e', '2025-02-18T00:49:12Z', '2025-02-18T04:49:12Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (730, 'dd55d4fe-96f3-4003-94d6-d0d54f67f1f4', '2025-02-12T09:36:15Z', '2025-02-12T20:36:15Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (731, '27b98437-fc6e-4ed2-b6e1-da11d5a519a0', '2025-02-19T23:40:31Z', '2025-02-20T11:40:31Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (731, '27b98437-fc6e-4ed2-b6e1-da11d5a519a0', '2025-02-20T00:40:31Z', '2025-02-20T11:40:31Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (732, '6c3aa694-230d-4a73-b4fe-a9cbfeee7ceb', '2025-03-09T05:43:52Z', '2025-03-09T13:43:52Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (733, 'a106ccbb-8828-4a7f-8263-9f1c6bac4052', '2025-01-20T21:19:20Z', '2025-01-21T00:19:20Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (734, '33520114-ee71-4201-a647-03724c94f94e', '2025-01-29T14:34:45Z', '2025-01-30T06:34:45Z');
@@ -744,8 +744,8 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (743, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (744, '82ea9c7c-b99b-4d4f-8aed-35bb5403de32', '2025-02-20T19:53:09Z', '2025-02-20T21:53:09Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (745, '660f0fc9-eb5d-4221-ad10-8d143effd0e5', '2025-03-06T10:01:32Z', '2025-03-06T18:01:32Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (746, 'f5e3be00-9155-450a-a236-e44a4bdc9324', '2025-02-22T06:02:25Z', '2025-02-22T20:02:25Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (747, 'ede4ee2a-2c7a-4940-94a5-43988d7a1ae6', '2025-02-19T22:13:19Z', '2025-02-20T12:13:19Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (748, 'fd3e36d7-a665-41a4-830f-885c93c0d0cc', '2025-02-18T21:51:20Z', '2025-02-19T09:51:20Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (747, 'ede4ee2a-2c7a-4940-94a5-43988d7a1ae6', '2025-02-20T00:13:19Z', '2025-02-20T12:13:19Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (748, 'fd3e36d7-a665-41a4-830f-885c93c0d0cc', '2025-02-18T21:51:20Z', '2025-02-18T23:51:20Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (749, '23a17344-2d36-4c8e-8994-6e2eafa155bb', '2025-01-29T10:23:06Z', '2025-01-29T14:23:06Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (750, 'c16e1f1c-eb0d-4076-8c5b-d2c5e13b61c5', '2025-02-24T14:53:47Z', '2025-02-25T04:53:47Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (751, '6d787d41-6cbf-47c7-9c15-8c13bb684383', '2025-01-10T11:13:25Z', '2025-01-11T01:13:25Z');
@@ -756,7 +756,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (755, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (756, '2088c139-c8ae-4f6a-9747-02329d36ecb5', '2025-01-02T22:50:40Z', '2025-01-03T05:50:40Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (757, '805942a1-3869-4e0d-9c1f-5b6349e284c6', '2025-02-06T19:22:47Z', '2025-02-07T10:22:47Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (758, 'e4562ee7-3d77-44c0-b003-03dae0096169', '2025-02-26T12:40:57Z', '2025-02-27T02:40:57Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (759, '0dae2ca8-2445-4a1d-87c2-1ace7a27c345', '2025-02-19T07:39:05Z', '2025-02-19T11:39:05Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (759, '0dae2ca8-2445-4a1d-87c2-1ace7a27c345', '2025-02-20T07:39:05Z', '2025-02-20T11:39:05Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (760, 'd04c74e7-b32a-4e27-a0d3-620be9586488', '2025-03-07T04:50:28Z', '2025-03-07T14:50:28Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (761, 'd43bc05a-8e4c-483b-a7a1-75e06f5275b9', '2025-03-10T16:11:49Z', '2025-03-11T03:11:49Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (762, 'f4f64b1d-2c30-4d0b-b26a-9c097acdc549', '2025-01-31T14:08:10Z', '2025-01-31T16:08:10Z');
@@ -766,7 +766,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (765, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (766, '05c6b62c-6374-4237-8e53-2f7985c28d18', '2025-02-22T09:57:19Z', '2025-02-22T22:57:19Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (767, '587e2ce0-930f-4808-886a-2d0c52dfcb87', '2025-03-05T17:38:54Z', '2025-03-05T20:38:54Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (768, '7faea37d-1397-49ff-af5e-94a049666f1b', '2025-01-25T17:08:00Z', '2025-01-26T06:08:00Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (769, '03869dab-fe8f-4b38-adce-48e7aaf936d1', '2025-02-19T14:45:28Z', '2025-02-19T19:45:28Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (769, '03869dab-fe8f-4b38-adce-48e7aaf936d1', '2025-02-20T14:45:28Z', '2025-02-20T19:45:28Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (770, 'd0407ce7-cc6c-43aa-b268-adc625d18921', '2025-01-29T17:36:12Z', '2025-01-29T21:36:12Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (771, '5f80933e-742b-4882-8b25-b4ff4de48a45', '2025-02-24T12:47:56Z', '2025-02-24T16:47:56Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (772, '42630e87-8aec-4f8e-b4cc-5dc84570bdf2', '2025-01-04T18:07:22Z', '2025-01-04T20:07:22Z');
@@ -822,7 +822,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (821, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (822, '53a0e915-7c0c-45f4-a69d-7d17c32995ae', '2025-02-27T03:29:57Z', '2025-02-27T16:29:57Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (823, 'a1525376-3e86-4e64-8fec-2945d0be9450', '2025-02-06T11:36:48Z', '2025-02-06T18:36:48Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (824, '96204d63-8146-4731-b1a6-324ecd5c7eaf', '2025-01-15T14:38:36Z', '2025-01-15T20:38:36Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (825, '0765c533-5d25-4d0d-862d-60fae4dc4dae', '2025-02-18T18:38:05Z', '2025-02-19T02:38:05Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (825, '0765c533-5d25-4d0d-862d-60fae4dc4dae', '2025-02-18T18:38:05Z', '2025-02-18T23:38:05Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (826, 'bff7a199-6a5c-48e3-a516-4a19f9ff611a', '2025-01-30T12:06:57Z', '2025-01-30T16:06:57Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (827, 'b49393fe-fe3c-43c6-afe6-8c1f4571a445', '2025-03-06T02:06:01Z', '2025-03-06T15:06:01Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (828, '724b2d0e-8efe-4b3f-a6e3-a7f2ff9af92c', '2025-03-06T13:40:11Z', '2025-03-06T21:40:11Z');
@@ -865,7 +865,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (864, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (865, '56a86230-b019-48dc-b21c-bde32adbc919', '2025-01-07T02:01:03Z', '2025-01-07T06:01:03Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (866, '34906d25-07ba-4079-803e-aa30e4a9fd6b', '2025-02-28T19:06:05Z', '2025-03-01T09:06:05Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (867, 'f3df0adc-9e25-4033-b6fa-9c445bac2067', '2025-03-10T14:46:37Z', '2025-03-10T17:46:37Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (868, '9420bf48-d143-4763-9626-815c1ff28041', '2025-02-18T17:22:41Z', '2025-02-19T07:22:41Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (868, '9420bf48-d143-4763-9626-815c1ff28041', '2025-02-18T17:22:41Z', '2025-02-18T23:22:41Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (869, '025b83eb-092d-42f6-85d7-305e5dd63f35', '2025-01-22T08:44:40Z', '2025-01-22T15:44:40Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (870, 'acdbc4e3-0c34-4526-93e2-c13e138c3454', '2025-02-02T05:52:02Z', '2025-02-02T15:52:02Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (871, '874ef2fe-f483-446d-99d9-ab02a9c5523d', '2025-03-06T08:43:56Z', '2025-03-06T19:43:56Z');
@@ -955,7 +955,7 @@ insert into time_punches (id, time_clock_id, punch_in, punch_out) values (954, '
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (955, '9ef7f52e-2922-4ca1-9e54-16ed5f4048df', '2025-03-03T19:35:06Z', '2025-03-03T21:35:06Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (956, 'bc12e5a1-be4d-4059-926d-52c2125b6598', '2025-03-18T07:18:42Z', '2025-03-18T11:18:42Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (957, 'ccb61067-e4d5-4552-be56-e81a863f7bbf', '2025-02-12T11:40:26Z', '2025-02-12T17:40:26Z');
-insert into time_punches (id, time_clock_id, punch_in, punch_out) values (958, '55bda6dd-1efb-4ce7-9670-3baf08e371b7', '2025-02-19T21:16:56Z', '2025-02-20T12:16:56Z');
+insert into time_punches (id, time_clock_id, punch_in, punch_out) values (958, '55bda6dd-1efb-4ce7-9670-3baf08e371b7', '2025-02-20T00:16:56Z', '2025-02-20T12:16:56Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (959, '0e8657e8-0d57-4765-a441-3b15610e98bd', '2025-02-13T04:27:49Z', '2025-02-13T13:27:49Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (960, '35963142-742f-4472-95fa-ceeabd2e8853', '2025-01-25T06:55:19Z', '2025-01-25T19:55:19Z');
 insert into time_punches (id, time_clock_id, punch_in, punch_out) values (961, 'da5da51c-ffa9-4247-bd4e-4d38ac30573e', '2025-01-04T13:07:07Z', '2025-01-04T19:07:07Z');
