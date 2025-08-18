@@ -14,6 +14,12 @@ We would like you count how many hours were worked on 2025-02-01.
 
 The expected number of hours is 43.
 
+# Part 3
+
+We would like you count how many days in February 2025 have no hours worked.
+
+The expected number is 1.
+
 ## Running server
 
 It is important that the server is started from the `server` directory in order for the server to find the `interview.db` sqlite file.
