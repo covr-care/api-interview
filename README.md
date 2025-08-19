@@ -13,8 +13,8 @@ We would like you collect all data from this API for the date range of 2025-02-0
 
 #### Query Params
 
-- `from`: required, date in format of `YYYY-MM-DD`
-- `to`: required, date in format of `YYYY-MM-DD`
+- `from`: required, date in format of `YYYY-MM-DDTHH:MM:SSZ`
+- `to`: required, date in format of `YYYY-MM-DDTHH:MM:SSZ`
 - `limit`: optional, default 100
 - `offset`: optional, default 0
 
